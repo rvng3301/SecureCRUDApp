@@ -285,3 +285,4 @@
 /Users/artem/Desktop/універ/Присяжний/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.pdb
 /Users/artem/Desktop/універ/Присяжний/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.genruntimeconfig.cache
 /Users/artem/Desktop/універ/Присяжний/WebApplication4/WebApplication4/obj/Debug/net8.0/ref/WebApplication4.dll
+/Users/artem/Desktop/універ/Присяжний/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.sourcelink.json
